@@ -1,0 +1,10 @@
+1703844187171: ::1 | GET | /api/users
+1703844268553: ::1 | POST | /api/users
+1703844274692: ::1 | GET | /api/users
+1703844293388: ::1 | GET | /api/users/658d66eb77387ef6bb1eed66
+1703844318944: ::1 | PATCH | /api/users/658d66eb77387ef6bb1eed66
+1703844324198: ::1 | GET | /api/users/658d66eb77387ef6bb1eed66
+1703844332537: ::1 | DELETE | /api/users/658d66eb77387ef6bb1eed66
+1703844337116: ::1 | GET | /api/users
+1703844360314: ::1 | POST | /api/users
+1703844364701: ::1 | GET | /api/users
